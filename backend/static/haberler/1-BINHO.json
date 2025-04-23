@@ -1,0 +1,8 @@
+{
+    "overview": "Analiz, bin yatırımlar Holding hisse senedinin mevcut durumunu ve olası fiyat hareketlerini incelemektedir. Düşen bir trend çizgisi içinde hareket eden hisse, belirli destek ve direnç seviyeleri ile birlikte değerlendirilmektedir. Kullanıcıdan ek bilgi talep edilmemiştir.",
+    "summary": {
+        "overall_sentiment": "nötr",
+        "key_points": "Hisse, düşen bir trend içinde hareket ediyor. 263-280 TL arası dip bölgesi olarak belirlenmiş. Düşen trend çizgisi 5 kez test edilmiş ama kırılmamış. Kısa vadede alım-satım fırsatları mevcut.",
+        "recommendation": "Bekle"
+    }
+}

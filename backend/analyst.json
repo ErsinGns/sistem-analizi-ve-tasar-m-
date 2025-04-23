@@ -1,0 +1,242 @@
+{
+    "info": [
+        {
+            "name": "AKFYE",
+            "analysis": [
+                {
+                    "published_at": "2024-05-13T18:35:29Z",
+                    "code": "IYF",
+                    "title": "İnfo Yatırım",
+                    "price_target": 72.0,
+                    "type": "al"
+                },
+                {
+                    "published_at": "2025-01-17T11:07:21Z",
+                    "code": "IYM",
+                    "title": "İş Yatırım",
+                    "price_target": 34.62,
+                    "type": "al"
+                }
+            ]
+        },
+        {
+            "name": "AKSGY",
+            "analysis": [
+                {
+                    "published_at": "2024-12-13T13:48:01Z",
+                    "code": "GDK",
+                    "title": "Gedik Yatırım",
+                    "price_target": 8.27,
+                    "type": "endekse_paralel"
+                },
+                {
+                    "published_at": "2025-01-17T11:34:57Z",
+                    "code": "IYM",
+                    "title": "İş Yatırım",
+                    "price_target": 10.09,
+                    "type": "al"
+                }
+            ]
+        },
+        {
+            "name": "ALFAS",
+            "analysis": [
+                {
+                    "published_at": "2025-01-08T11:45:54Z",
+                    "code": "DZY",
+                    "title": "Deniz Yatırım",
+                    "price_target": 82.0,
+                    "type": "tut"
+                }
+            ]
+        },
+        {
+            "name": "ALKIM",
+            "analysis": [
+                {
+                    "published_at": "2025-01-08T11:55:02Z",
+                    "code": "DZY",
+                    "title": "Deniz Yatırım",
+                    "price_target": 24.5,
+                    "type": "tut"
+                }
+            ]
+        },
+        {
+            "name": "AVPGY",
+            "analysis": [
+                {
+                    "published_at": "2025-02-04T12:35:24Z",
+                    "code": "AKM",
+                    "title": "Ak Yatırım",
+                    "price_target": 78.0,
+                    "type": "endekse_paralel"
+                }
+            ]
+        },
+        
+        {
+            "name": "EBEBK",
+            "analysis": [
+                {
+                    "published_at": "2025-01-10T09:07:29Z",
+                    "code": "UNS",
+                    "title": "Ünlü Menkul Değerler",
+                    "price_target": 94.9,
+                    "type": "al"
+                }
+            ]
+        },
+        {
+            "name": "ENTRA",
+            "analysis": [
+                {
+                    "published_at": "2025-02-21T11:13:45Z",
+                    "code": "GLB",
+                    "title": "Global Menkul Değerler",
+                    "price_target": 12.16,
+                    "type": "al"
+                }
+            ]
+        },
+        {
+            "name": "OYAKC",
+            "analysis": [
+                {
+                    "published_at": "2024-11-25T13:12:58Z",
+                    "code": "MRS",
+                    "title": "Marbaş Menkul Değerler",
+                    "price_target": 25.28,
+                    "type": "al"
+                },
+                {
+                    "published_at": "2025-01-17T09:24:32Z",
+                    "code": "IYM",
+                    "title": "İş Yatırım",
+                    "price_target": 33.33,
+                    "type": "al"
+                }
+            ]
+        },
+        {
+            "name": "OZKGY",
+            "analysis": [
+                {
+                    "published_at": "2025-01-27T17:14:00Z",
+                    "code": "YAT",
+                    "title": "Yatırım Finansman Menkul Değerler",
+                    "price_target": 17.0,
+                    "type": "endekse_paralel"
+                }
+            ]
+        },
+        {
+            "name": "RYGYO",
+            "analysis": [
+                {
+                    "published_at": "2025-01-27T19:02:39Z",
+                    "code": "YAT",
+                    "title": "Yatırım Finansman Menkul Değerler",
+                    "price_target": 20.0,
+                    "type": "endekse_paralel"
+                }
+            ]
+        },
+        {
+            "name": "SUNTK",
+            "analysis": [
+                {
+                    "published_at": "2022-10-06T10:14:53Z",
+                    "code": "FNY",
+                    "title": "QNB Yatırım",
+                    "price_target": 22.6,
+                    "type": "al"
+                },
+                {
+                    "published_at": "2025-01-27T19:05:53Z",
+                    "code": "YAT",
+                    "title": "Yatırım Finansman Menkul Değerler",
+                    "price_target": 42.0,
+                    "type": "endekse_paralel"
+                }
+            ]
+        },
+        {
+            "name": "SUWEN",
+            "analysis": [
+                {
+                    "published_at": "2024-12-24T09:05:26Z",
+                    "code": "TAC",
+                    "title": "Tacirler Yatırım",
+                    "price_target": 39.0,
+                    "type": "al"
+                }
+            ]
+        },
+        {
+            "name": "TATEN",
+            "analysis": [
+                {
+                    "published_at": "2024-06-26T18:35:43Z",
+                    "code": "IYF",
+                    "title": "İnfo Yatırım",
+                    "price_target": 61.0,
+                    "type": "al"
+                },
+                {
+                    "published_at": "2025-01-24T07:08:47Z",
+                    "code": "HLY",
+                    "title": "Halk Yatırım",
+                    "price_target": 75.82,
+                    "type": "al"
+                }
+            ]
+        },
+        {
+            "name": "TATGD",
+            "analysis": [
+                {
+                    "published_at": "2024-12-26T18:58:39Z",
+                    "code": "HLY",
+                    "title": "Halk Yatırım",
+                    "price_target": 14.3,
+                    "type": "tut"
+                }
+            ]
+        },
+        
+        {
+            "name": "YYLGD",
+            "analysis": [
+                {
+                    "published_at": "2024-11-27T08:48:33Z",
+                    "code": "BAH",
+                    "title": "Allbatross Yatırım",
+                    "price_target": 17.7,
+                    "type": "al"
+                }
+            ]
+        },
+        {
+            "name": "ZOREN",
+            "analysis": [
+                {
+                    "published_at": "2025-01-06T19:51:03Z",
+                    "code": "SKY",
+                    "title": "Şeker Yatırım",
+                    "price_target": 5.4,
+                    "type": "tut"
+                },
+                {
+                    "published_at": "2024-12-13T09:02:55Z",
+                    "code": "GDK",
+                    "title": "Gedik Yatırım",
+                    "price_target": 6.15,
+                    "type": "endekse_paralel"
+                }
+            ]
+        }
+    ],
+    "before": "0",
+    "after":"2"
+}

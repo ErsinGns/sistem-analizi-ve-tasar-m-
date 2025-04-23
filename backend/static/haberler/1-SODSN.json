@@ -1,0 +1,8 @@
+{
+    "overview": "Analiz, Sodaş hisse senedinin mevcut durumu ve piyasa koşulları hakkında genel bir değerlendirme sunmaktadır. Yurt içi ve yurt dışı verilerin hisse üzerindeki etkileri, enflasyon oranları ve piyasa dinamikleri göz önünde bulundurularak, yatırımcıların dikkat etmesi gereken noktalar vurgulanmıştır.",
+    "summary": {
+        "overall_sentiment": "negatif",
+        "key_points": "Yurt içi enflasyon verisi yüksek; dolardaki artış riskli varlıkları baskılıyor. Sodaş hissesi 120 bandının altında kalıyor ve 95'e doğru gerileme riski var. Para çıkışları devam ediyor ve satış baskısı sürüyor.",
+        "recommendation": "Bekle"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "overview": "Analiz edilen hisse, genel olarak zayıf bir performans sergilemekte ve henüz güçlü bir yukarı yönlü sinyal vermemektedir. Bilanço verileri olumsuz görünse de, hisse aşırı satılmış durumda ve tepki yükselişi ihtimali bulunmaktadır.",
+    "summary": {
+        "overall_sentiment": "nötr",
+        "key_points": "Hisse, 200 günlük ortalamasından uzak; bilanço verileri kötü; çarpanlar ucuzlamış; piyasa değeri defter değerinin altında; tepki yükselişi ihtimali yüksek.",
+        "recommendation": "bekle"
+    }
+}

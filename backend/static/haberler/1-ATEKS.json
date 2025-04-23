@@ -1,0 +1,8 @@
+{
+    "overview": "Veri analizi, Akın Tekstil'in son dönem finansal durumunu ve karlılığını değerlendirmektedir. Şirket, son dönemde önemli zararlar yaşamış ve karlılık oranları ciddi şekilde düşmüştür. Satış gelirleri ve net kar, önceki dönemlere göre azalmış, maliyetler ise artmıştır. Bu durum, şirketin finansal sağlığını olumsuz etkilemektedir.",
+    "summary": {
+        "overall_sentiment": "negatif",
+        "key_points": "Şirket son dönemde -6.7 milyon lira zarar etmiştir. Net kar, bir önceki döneme göre %522 azalmıştır. Satış gelirleri, bir önceki döneme göre %37 azalmıştır. Öz sermaye karlılığı eksiye geçmiştir. Nakit benzerleri, bir önceki döneme göre %21 azalmıştır.",
+        "recommendation": "satış"
+    }
+}

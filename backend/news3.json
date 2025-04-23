@@ -1,0 +1,226 @@
+{ 
+    "news" : [ 
+  {
+    "stock_symbol": "Hisse Kodu (örn: AAPL)",
+    "analysis_date": "Analiz Tarihi (örn: 2025-03-07)",
+    "input_source": {
+      "type": "Veri Türü (örn: cap_report, youtube_video, tweets)",
+      "details": {
+        "source_identifier": "Kaynak Tanımlayıcı (örn: dosya adı, video linki, tweet sayısı)",
+        "keywords": ["Anahtar Kelime 1", "Anahtar Kelime 2"],
+        "sample_content": ["Örnek İçerik 1", "Örnek İçerik 2"]
+      }
+    },
+    "overview": "Analizin kısa ve genel özeti (tek paragraflık metin)",
+    "summary": {
+      "overall_sentiment": "Genel Duyarlılık (pozitif, negatif, nötr)",
+      "key_points": "Ana Bulgular (kısa metin)Ana Bulgular (kısa metin)Ana Bulgular (kısa metin)Ana Bulgular (kısa metin)Ana Bulgular (kısa metin)",
+      "recommendation": "Özet Değerlendirme (örn: alım, satım, bekle)"
+    },
+    "metrics": {
+      "confidence_level": "Analiz Güvenilirlik Seviyesi (0-100 arası)",
+      "data_volume": "Veri Miktarı (örn: 1 video, 50 tweet)"
+    }
+  },
+  {
+    "stock_symbol": "Hisse Kodu (örn: AAPL)",
+    "analysis_date": "Analiz Tarihi (örn: 2025-03-07)",
+    "input_source": {
+      "type": "Veri Türü (örn: cap_report, youtube_video, tweets)",
+      "details": {
+        "source_identifier": "Kaynak Tanımlayıcı (örn: dosya adı, video linki, tweet sayısı)",
+        "keywords": ["Anahtar Kelime 1", "Anahtar Kelime 2"],
+        "sample_content": ["Örnek İçerik 1", "Örnek İçerik 2"]
+      }
+    },
+    "overview": "Analizin kısa ve genel özeti (tek paragraflık metin)",
+    "summary": {
+      "overall_sentiment": "Genel Duyarlılık (pozitif, negatif, nötr)",
+      "key_points": "Ana Bulgular (kısa metin)",
+      "recommendation": "Özet Değerlendirme (örn: alım, satım, bekle)"
+    },
+    "metrics": {
+      "confidence_level": "Analiz Güvenilirlik Seviyesi (0-100 arası)",
+      "data_volume": "Veri Miktarı (örn: 1 video, 50 tweet)"
+    }
+  },
+  {
+    "stock_symbol": "Hisse Kodu (örn: AAPL)",
+    "analysis_date": "Analiz Tarihi (örn: 2025-03-07)",
+    "input_source": {
+      "type": "Veri Türü (örn: cap_report, youtube_video, tweets)",
+      "details": {
+        "source_identifier": "Kaynak Tanımlayıcı (örn: dosya adı, video linki, tweet sayısı)",
+        "keywords": ["Anahtar Kelime 1", "Anahtar Kelime 2"],
+        "sample_content": ["Örnek İçerik 1", "Örnek İçerik 2"]
+      }
+    },
+    "overview": "Analizin kısa ve genel özeti (tek paragraflık metin)",
+    "summary": {
+      "overall_sentiment": "Genel Duyarlılık (pozitif, negatif, nötr)",
+      "key_points": "Ana Bulgular (kısa metin)",
+      "recommendation": "Özet Değerlendirme (örn: alım, satım, bekle)"
+    },
+    "metrics": {
+      "confidence_level": "Analiz Güvenilirlik Seviyesi (0-100 arası)",
+      "data_volume": "Veri Miktarı (örn: 1 video, 50 tweet)"
+    }
+  },
+  {
+    "stock_symbol": "Hisse Kodu (örn: AAPL)",
+    "analysis_date": "Analiz Tarihi (örn: 2025-03-07)",
+    "input_source": {
+      "type": "Veri Türü (örn: cap_report, youtube_video, tweets)",
+      "details": {
+        "source_identifier": "Kaynak Tanımlayıcı (örn: dosya adı, video linki, tweet sayısı)",
+        "keywords": ["Anahtar Kelime 1", "Anahtar Kelime 2"],
+        "sample_content": ["Örnek İçerik 1", "Örnek İçerik 2"]
+      }
+    },
+    "overview": "Analizin kısa ve genel özeti (tek paragraflık metin)",
+    "summary": {
+      "overall_sentiment": "Genel Duyarlılık (pozitif, negatif, nötr)",
+      "key_points": "Ana Bulgular (kısa metin)",
+      "recommendation": "Özet Değerlendirme (örn: alım, satım, bekle)"
+    },
+    "metrics": {
+      "confidence_level": "Analiz Güvenilirlik Seviyesi (0-100 arası)",
+      "data_volume": "Veri Miktarı (örn: 1 video, 50 tweet)"
+    }
+  },
+  {
+    "stock_symbol": "Hisse Kodu (örn: AAPL)",
+    "analysis_date": "Analiz Tarihi (örn: 2025-03-07)",
+    "input_source": {
+      "type": "Veri Türü (örn: cap_report, youtube_video, tweets)",
+      "details": {
+        "source_identifier": "Kaynak Tanımlayıcı (örn: dosya adı, video linki, tweet sayısı)",
+        "keywords": ["Anahtar Kelime 1", "Anahtar Kelime 2"],
+        "sample_content": ["Örnek İçerik 1", "Örnek İçerik 2"]
+      }
+    },
+    "overview": "Analizin kısa ve genel özeti (tek paragraflık metin)",
+    "summary": {
+      "overall_sentiment": "Genel Duyarlılık (pozitif, negatif, nötr)",
+      "key_points": "Ana Bulgular (kısa metin)",
+      "recommendation": "Özet Değerlendirme (örn: alım, satım, bekle)"
+    },
+    "metrics": {
+      "confidence_level": "Analiz Güvenilirlik Seviyesi (0-100 arası)",
+      "data_volume": "Veri Miktarı (örn: 1 video, 50 tweet)"
+    }
+  },
+  {
+    "stock_symbol": "Hisse Kodu (örn: AAPL)",
+    "analysis_date": "Analiz Tarihi (örn: 2025-03-07)",
+    "input_source": {
+      "type": "Veri Türü (örn: cap_report, youtube_video, tweets)",
+      "details": {
+        "source_identifier": "Kaynak Tanımlayıcı (örn: dosya adı, video linki, tweet sayısı)",
+        "keywords": ["Anahtar Kelime 1", "Anahtar Kelime 2"],
+        "sample_content": ["Örnek İçerik 1", "Örnek İçerik 2"]
+      }
+    },
+    "overview": "Analizin kısa ve genel özeti (tek paragraflık metin)",
+    "summary": {
+      "overall_sentiment": "Genel Duyarlılık (pozitif, negatif, nötr)",
+      "key_points": "Ana Bulgular (kısa metin)",
+      "recommendation": "Özet Değerlendirme (örn: alım, satım, bekle)"
+    },
+    "metrics": {
+      "confidence_level": "Analiz Güvenilirlik Seviyesi (0-100 arası)",
+      "data_volume": "Veri Miktarı (örn: 1 video, 50 tweet)"
+    }
+  },
+  {
+    "stock_symbol": "Hisse Kodu (örn: AAPL)",
+    "analysis_date": "Analiz Tarihi (örn: 2025-03-07)",
+    "input_source": {
+      "type": "Veri Türü (örn: cap_report, youtube_video, tweets)",
+      "details": {
+        "source_identifier": "Kaynak Tanımlayıcı (örn: dosya adı, video linki, tweet sayısı)",
+        "keywords": ["Anahtar Kelime 1", "Anahtar Kelime 2"],
+        "sample_content": ["Örnek İçerik 1", "Örnek İçerik 2"]
+      }
+    },
+    "overview": "Analizin kısa ve genel özeti (tek paragraflık metin)",
+    "summary": {
+      "overall_sentiment": "Genel Duyarlılık (pozitif, negatif, nötr)",
+      "key_points": "Ana Bulgular (kısa metin)",
+      "recommendation": "Özet Değerlendirme (örn: alım, satım, bekle)"
+    },
+    "metrics": {
+      "confidence_level": "Analiz Güvenilirlik Seviyesi (0-100 arası)",
+      "data_volume": "Veri Miktarı (örn: 1 video, 50 tweet)"
+    }
+  },
+  {
+    "stock_symbol": "Hisse Kodu (örn: AAPL)",
+    "analysis_date": "Analiz Tarihi (örn: 2025-03-07)",
+    "input_source": {
+      "type": "Veri Türü (örn: cap_report, youtube_video, tweets)",
+      "details": {
+        "source_identifier": "Kaynak Tanımlayıcı (örn: dosya adı, video linki, tweet sayısı)",
+        "keywords": ["Anahtar Kelime 1", "Anahtar Kelime 2"],
+        "sample_content": ["Örnek İçerik 1", "Örnek İçerik 2"]
+      }
+    },
+    "overview": "Analizin kısa ve genel özeti (tek paragraflık metin)",
+    "summary": {
+      "overall_sentiment": "Genel Duyarlılık (pozitif, negatif, nötr)",
+      "key_points": "Ana Bulgular (kısa metin)",
+      "recommendation": "Özet Değerlendirme (örn: alım, satım, bekle)"
+    },
+    "metrics": {
+      "confidence_level": "Analiz Güvenilirlik Seviyesi (0-100 arası)",
+      "data_volume": "Veri Miktarı (örn: 1 video, 50 tweet)"
+    }
+  }
+  ,{
+    "stock_symbol": "Hisse Kodu (örn: AAPL)",
+    "analysis_date": "Analiz Tarihi (örn: 2025-03-07)",
+    "input_source": {
+      "type": "Veri Türü (örn: cap_report, youtube_video, tweets)",
+      "details": {
+        "source_identifier": "Kaynak Tanımlayıcı (örn: dosya adı, video linki, tweet sayısı)",
+        "keywords": ["Anahtar Kelime 1", "Anahtar Kelime 2"],
+        "sample_content": ["Örnek İçerik 1", "Örnek İçerik 2"]
+      }
+    },
+    "overview": "Analizin kısa ve genel özeti (tek paragraflık metin)",
+    "summary": {
+      "overall_sentiment": "Genel Duyarlılık (pozitif, negatif, nötr)",
+      "key_points": "Ana Bulgular (kısa metin)",
+      "recommendation": "Özet Değerlendirme (örn: alım, satım, bekle)"
+    },
+    "metrics": {
+      "confidence_level": "Analiz Güvenilirlik Seviyesi (0-100 arası)",
+      "data_volume": "Veri Miktarı (örn: 1 video, 50 tweet)"
+    }
+  },
+  {
+    "stock_symbol": "Hisse Kodu (örn: AAPL)",
+    "analysis_date": "Analiz Tarihi (örn: 2025-03-07)",
+    "input_source": {
+      "type": "Veri Türü (örn: cap_report, youtube_video, tweets)",
+      "details": {
+        "source_identifier": "Kaynak Tanımlayıcı (örn: dosya adı, video linki, tweet sayısı)",
+        "keywords": ["Anahtar Kelime 1", "Anahtar Kelime 2"],
+        "sample_content": ["Örnek İçerik 1", "Örnek İçerik 2"]
+      }
+    },
+    "overview": "Analizin kısa ve genel özeti (tek paragraflık metin)",
+    "summary": {
+      "overall_sentiment": "Genel Duyarlılık (pozitif, negatif, nötr)",
+      "key_points": "Ana Bulgular (kısa metin)",
+      "recommendation": "Özet Değerlendirme (örn: alım, satım, bekle)"
+    },
+    "metrics": {
+      "confidence_level": "Analiz Güvenilirlik Seviyesi (0-100 arası)",
+      "data_volume": "Veri Miktarı (örn: 1 video, 50 tweet)"
+    }
+  }
+ ],
+ "before": "0",
+ "after":"2"
+}
