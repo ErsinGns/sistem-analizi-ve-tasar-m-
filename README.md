@@ -1,7 +1,7 @@
 
 # BorsaNet
 
-Açık kaynaklardan aldığı hisse bilgilerini analiz ederek. Hisse fiyatı hakkında hedefleme ve analiz raporu oluşturur.
+Açık kaynaklardan aldığı hisse bilgilerini analiz ederek hisse fiyatı hakkında hedefleme ve analiz raporu oluşturur.
 
 
 <p float="left">
